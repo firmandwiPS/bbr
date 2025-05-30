@@ -3,7 +3,7 @@
 
   <!-- Section Title -->
   <div class="container section-title text-center mb-10" data-aos="fade-up">
-    <h2 class="text-3xl font-bold text-gray-800">Kegiatan Unggulan</h2>
+    <h2 class="text-xl font-bold text-gray-800">Kegiatan Unggulan</h2>
     <p class="text-gray-600 mt-2">Beberapa kegiatan rutin dan unggulan Majelis Baburrahman dalam dakwah dan sosial kemasyarakatan.</p>
   </div><!-- End Section Title -->
 
